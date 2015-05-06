@@ -8,6 +8,8 @@
 .settings
 
 #eclipse generated files
-/Debug
-/cute
+my_calc/Debug/
+my_calc_main/Debug/
+my_calc_test/Debug/
+my_calc_test/cute/
 my_calc_test.xml
