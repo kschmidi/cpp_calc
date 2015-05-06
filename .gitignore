@@ -1,0 +1,13 @@
+#Mac file(s) ignores
+.DS_Store
+
+#eclipse ignores
+.metadata
+.cproject
+.project
+.settings
+
+#eclipse generated files
+/Debug
+/cute
+my_calc_test.xml
