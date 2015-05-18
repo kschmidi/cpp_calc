@@ -19,4 +19,4 @@ To set the Project Reference do the following:
 	right click on the Project (not for my_calc) > Properties > Project References > select my_calc
 
 To check if all works, try build the my_calc Project and then the others and if this works you're good to go!<br />
-***It is very important to build the my_calc Project first, because the others try to find the archive files of it and if this isn't here the won't build.***
+***It is very important to build the my_calc Project first, because the others try to find the archive files of it and if this isn't here they won't build.***
